@@ -1,0 +1,10 @@
+D:\NET\Чистий#\Fractal\Fractal\bin\Debug\Fractal.exe.config
+D:\NET\Чистий#\Fractal\Fractal\bin\Debug\Fractal.exe
+D:\NET\Чистий#\Fractal\Fractal\bin\Debug\Fractal.pdb
+D:\NET\Чистий#\Fractal\Fractal\obj\Debug\Fractal.csprojAssemblyReference.cache
+D:\NET\Чистий#\Fractal\Fractal\obj\Debug\Fractal.Form1.resources
+D:\NET\Чистий#\Fractal\Fractal\obj\Debug\Fractal.Properties.Resources.resources
+D:\NET\Чистий#\Fractal\Fractal\obj\Debug\Fractal.csproj.GenerateResource.cache
+D:\NET\Чистий#\Fractal\Fractal\obj\Debug\Fractal.csproj.CoreCompileInputs.cache
+D:\NET\Чистий#\Fractal\Fractal\obj\Debug\Fractal.exe
+D:\NET\Чистий#\Fractal\Fractal\obj\Debug\Fractal.pdb
